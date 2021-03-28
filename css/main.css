@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    outline: none;
+}
+body{
+    background-color: #000;
+    font-family: Varela Round;
+    overflow-x: hidden;
+}
+h1,h2,h3,h4,h5,h6{
+    font-family: Butler;
+}
